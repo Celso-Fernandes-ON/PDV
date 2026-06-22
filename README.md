@@ -41,8 +41,8 @@ pip install tabulate
 ```bash
 # Se usando git
 git clone https://github.com/Celso-Fernandes-ON/PDV
-cd seu-projeto
-
+cd PDV
+```
 
 ### 2. Instale as dependências
 ```bash
@@ -59,7 +59,7 @@ python main.py
 ## 📁 Estrutura do Projeto
 
 ```
-projeto/
+PDV/
 ├── main.py              # Arquivo principal - loop de menu
 ├── clients.py           # Gerenciamento de clientes
 ├── products.py          # Gerenciamento de produtos e compras
@@ -305,9 +305,11 @@ Acesso: Administrador - Controle total do sistema
 ## 👨‍💻 Informações do Projeto
 
 - **Tipo**: Projeto Acadêmico
-- **Disciplina**: Programação em Python
-- **Nível**: Iniciante/Intermediário
-- **Data de Criação**: 2026
+- **Disciplina**: Introdução a programação
+- **Universidade**: UNIESP
+- **Professor**: Demetrius
+- **Semestre**: p1
+- **Data de Entrega**: 04/12/2025
 
 ---
 
@@ -342,4 +344,4 @@ R: Sim! Todos os dados são salvos em arquivos e persistem entre execuções do 
 
 ---
 
-**Última atualização**: junho de 2026
+**Última atualização**: Dezembro 2025
