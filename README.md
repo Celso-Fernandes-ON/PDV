@@ -43,10 +43,6 @@ pip install tabulate
 git clone https://github.com/Celso-Fernandes-ON/PDV
 cd seu-projeto
 
-# Ou extraia o arquivo zip
-unzip seu-projeto.zip
-cd seu-projeto
-```
 
 ### 2. Instale as dependências
 ```bash
